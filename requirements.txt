@@ -1,0 +1,4 @@
+Flask==2.0.2
+boto3==1.18.43
+tika==1.24
+opensearch-py==2.0.0
