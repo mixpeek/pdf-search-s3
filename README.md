@@ -29,3 +29,6 @@ pip install -r requirements.txt
 1. Create the index by running `python insert.py create_index`
 2. Download the file, extract the contents then insert it into OpenSearch via `python insert.py download_file`
 3. Run the app via `python app.py`
+
+## Request
+If this was helpful to you, please upvote [this answer](https://stackoverflow.com/a/69475102/5956579) in StackOverflow
